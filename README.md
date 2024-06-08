@@ -1,4 +1,4 @@
-# A study utilizing histograms to analyyze trends in popular taxi services.
+# A study utilizing histograms to analyze trends in popular taxi services.
 
 ## <strong> Development Environment: </strong> ## 
 Visual Studio Code Version 1.88.1 & Anaconda3 (Python 3.11.7)
